@@ -1,0 +1,34 @@
+/* Body utama */
+body {
+    font-family: "Times New Roman", serif;
+    margin: 20px;
+}
+
+/* Paragraf */
+p {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+/* Tombol seperti pada gambar (biru muda) */
+button {
+    background-color: #b0e0e6;
+    border: 1px solid #5f9ea0;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+/* Efek saat hover */
+button:hover {
+    background-color: #87ceeb;
+}
+
+/* Kotak animasi */
+div {
+    width: 120px;
+    height: 120px;
+    background-color: #8db600; /* hijau seperti gambar */
+    position: absolute; /* penting */
+    top: 140px; /* posisi di bawah teks */
+    left: 20px; /* rata kiri */
+}
