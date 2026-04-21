@@ -1,1 +1,0 @@
-# Aplikasi-Berbasis-Platform
